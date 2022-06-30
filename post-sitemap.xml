@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2013/12/25/test/videos/</loc>
+        <loc>https://iwindoors.com/2013/12/24/test/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</loc>
         <lastmod>2022-06-30T00:53:09.926Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +33,7 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2013/12/24/test/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</loc>
+        <loc>https://iwindoors.com/2013/12/25/test/videos/</loc>
         <lastmod>2022-06-30T00:53:09.926Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +57,7 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2013/12/24/test/link-post/</loc>
+        <loc>https://iwindoors.com/2013/12/24/test/long-title/</loc>
         <lastmod>2022-06-30T00:53:09.925Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,16 +73,8 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2013/12/24/test/long-title/</loc>
+        <loc>https://iwindoors.com/2013/12/24/test/link-post/</loc>
         <lastmod>2022-06-30T00:53:09.925Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://iwindoors.com/2013/12/25/test/excerpts/</loc>
-        <lastmod>2022-06-30T00:53:09.924Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -117,6 +109,14 @@
             <image:loc>http://placehold.it/350x150.jpg</image:loc>
 
         </image:image>
+
+    </url>
+
+    <url>
+        <loc>https://iwindoors.com/2013/12/25/test/excerpts/</loc>
+        <lastmod>2022-06-30T00:53:09.924Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
 
     </url>
 
@@ -161,7 +161,7 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2020/03/10/news/2020-03-10-2.0/</loc>
+        <loc>https://iwindoors.com/2020/02/25/news/2020-02-25/</loc>
         <lastmod>2022-06-30T00:53:09.922Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -177,7 +177,7 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2020/02/25/news/2020-02-25/</loc>
+        <loc>https://iwindoors.com/2020/03/10/news/2020-03-10-2.0/</loc>
         <lastmod>2022-06-30T00:53:09.922Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -241,14 +241,6 @@
     </url>
 
     <url>
-        <loc>https://iwindoors.com/2021/03/07/blogs/2021-3-7-framei8/</loc>
-        <lastmod>2022-06-30T00:53:09.919Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://iwindoors.com/2021/04/01/blogs/2021-4-1-hls/</loc>
         <lastmod>2022-06-30T00:53:09.919Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -258,6 +250,14 @@
 
     <url>
         <loc>https://iwindoors.com/2021/04/14/blogs/2021-4-14-photos/</loc>
+        <lastmod>2022-06-30T00:53:09.919Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://iwindoors.com/2021/03/07/blogs/2021-3-7-framei8/</loc>
         <lastmod>2022-06-30T00:53:09.919Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

@@ -10,15 +10,6 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v5/tag-plugins/</loc>
-        <lastmod>2022-06-30T00:53:09.964Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://iwindoors.com/v5/theme-settings/</loc>
         <lastmod>2022-06-30T00:53:09.964Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -28,8 +19,8 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v5/site-settings/</loc>
-        <lastmod>2022-06-30T00:53:09.963Z</lastmod>
+        <loc>https://iwindoors.com/v5/tag-plugins/</loc>
+        <lastmod>2022-06-30T00:53:09.964Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -38,6 +29,15 @@
     
     <url>
         <loc>https://iwindoors.com/v5/page-settings/</loc>
+        <lastmod>2022-06-30T00:53:09.963Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://iwindoors.com/v5/site-settings/</loc>
         <lastmod>2022-06-30T00:53:09.963Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -109,7 +109,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v4/page-settings/</loc>
+        <loc>https://iwindoors.com/v4/advanced-settings/</loc>
         <lastmod>2022-06-30T00:53:09.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -127,7 +127,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v4/advanced-settings/</loc>
+        <loc>https://iwindoors.com/v4/page-settings/</loc>
         <lastmod>2022-06-30T00:53:09.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -145,7 +145,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/examples/</loc>
+        <loc>https://iwindoors.com/faqs/</loc>
         <lastmod>2022-06-30T00:53:09.929Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -154,7 +154,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/faqs/</loc>
+        <loc>https://iwindoors.com/examples/</loc>
         <lastmod>2022-06-30T00:53:09.929Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -172,7 +172,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/blog/tags/</loc>
+        <loc>https://iwindoors.com/blog/categories/</loc>
         <lastmod>2022-06-30T00:53:09.928Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -181,7 +181,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/blog/categories/</loc>
+        <loc>https://iwindoors.com/blog/tags/</loc>
         <lastmod>2022-06-30T00:53:09.928Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
