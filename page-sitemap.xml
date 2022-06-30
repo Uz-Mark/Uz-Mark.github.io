@@ -118,7 +118,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v4/getting-started/</loc>
+        <loc>https://iwindoors.com/v4/page-settings/</loc>
         <lastmod>2022-06-30T00:53:09.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -127,7 +127,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/v4/page-settings/</loc>
+        <loc>https://iwindoors.com/v4/getting-started/</loc>
         <lastmod>2022-06-30T00:53:09.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -172,7 +172,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/blog/categories/</loc>
+        <loc>https://iwindoors.com/blog/tags/</loc>
         <lastmod>2022-06-30T00:53:09.928Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -181,7 +181,7 @@
     
     
     <url>
-        <loc>https://iwindoors.com/blog/tags/</loc>
+        <loc>https://iwindoors.com/blog/categories/</loc>
         <lastmod>2022-06-30T00:53:09.928Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
