@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iwindoors工具集</title>
+  
+  <subtitle>收集各类门窗相关知识，工具，及使用教程。</subtitle>
+  <link href="https://iwindoors.com/atom.xml" rel="self"/>
+  
+  <link href="https://iwindoors.com/"/>
+  <updated>2022-01-18T16:00:00.000Z</updated>
+  <id>https://iwindoors.com/</id>
+  
+  <author>
+    <name>Uz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>volantis迎春攻略</title>
+    <link href="https://iwindoors.com/2022/01/19/blogs/2022-01-19-festival/"/>
+    <id>https://iwindoors.com/2022/01/19/blogs/2022-01-19-festival/</id>
+    <published>2022-01-18T16:00:00.000Z</published>
+    <updated>2022-01-18T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>灯花助春意，舞绶织欢心。新的一年，新的气象，快来为你的博客挂上漂漂亮亮的小🏮吧！哦对了，翀翀还斥巨资购买了大🎉，还不快进来看一看🥰~</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;灯花助春意，舞绶织欢心。新的一年，新的气象，快来为你的博客挂上漂漂亮亮的小🏮吧！哦对了，翀翀还斥巨资购买了大🎉，还不快进来看一看🥰~&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Volantis 多背景图的优化方案</title>
+    <link href="https://iwindoors.com/2021/11/29/blogs/2021-11-29-parallax/"/>
+    <id>https://iwindoors.com/2021/11/29/blogs/2021-11-29-parallax/</id>
+    <published>2021-11-28T16:00:00.000Z</published>
+    <updated>2022-04-19T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">优化背景图较多时的网页加载速度</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>网站自定义字体及推荐</title>
+    <link href="https://iwindoors.com/2021/09/02/blogs/2021-09-02-inkss-font/"/>
+    <id>https://iwindoors.com/2021/09/02/blogs/2021-09-02-inkss-font/</id>
+    <published>2021-09-01T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.917Z</updated>
+    
+    <content type="html"><![CDATA[<div class="note alien-monster cyan"><p>统计一下目前使用的自定义字体及调用。</p></div><div class="note poo gray"><p>Volantis 主题可直接参考使用。</p></div><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;div class=&quot;note alien-monster cyan&quot;&gt;&lt;p&gt;统计一下目前使用的自定义字体及调用。&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;note poo gray&quot;&gt;&lt;p&gt;Volantis 主题可直接参考使用。&lt;/p&gt;&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Volantis的APlayer事件捕获</title>
+    <link href="https://iwindoors.com/2021/08/31/blogs/2021-8-31-APlayer/"/>
+    <id>https://iwindoors.com/2021/08/31/blogs/2021-8-31-APlayer/</id>
+    <published>2021-08-30T16:00:00.000Z</published>
+    <updated>2022-04-19T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">让网页按照你的想法来响应APlayer事件</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Volantis主题自定义-暗黑模式动画</title>
+    <link href="https://iwindoors.com/2021/08/25/blogs/2021-8-29-darkmode/"/>
+    <id>https://iwindoors.com/2021/08/25/blogs/2021-8-29-darkmode/</id>
+    <published>2021-08-24T16:00:00.000Z</published>
+    <updated>2021-08-24T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">为暗黑模式的切换增加动画</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Volantis 主题个性化修改合集</title>
+    <link href="https://iwindoors.com/2021/08/15/blogs/2021-08-15-inkss-theme/"/>
+    <id>https://iwindoors.com/2021/08/15/blogs/2021-08-15-inkss-theme/</id>
+    <published>2021-08-14T16:00:00.000Z</published>
+    <updated>2021-08-14T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">记录了与 Volantis 主题相关的修改合集。</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>给博客添加捐赠小部件—sponsor-page</title>
+    <link href="https://iwindoors.com/2021/08/13/blogs/2021-08-13-sponsor-page/"/>
+    <id>https://iwindoors.com/2021/08/13/blogs/2021-08-13-sponsor-page/</id>
+    <published>2021-08-12T16:00:00.000Z</published>
+    <updated>2021-08-12T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">sponsor-page 是一个开源的捐赠按钮样式，可以用于美化我们的博客。</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用 pandoc 正确渲染多行 MathJax 公式</title>
+    <link href="https://iwindoors.com/2021/04/18/blogs/2021-4-18-pandoc-renderer/"/>
+    <id>https://iwindoors.com/2021/04/18/blogs/2021-4-18-pandoc-renderer/</id>
+    <published>2021-04-17T16:00:00.000Z</published>
+    <updated>2021-04-17T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">关于更换 Markdown 渲染器以正确渲染 MathJax 公式的一些考据</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为volantis添加瀑布流相册</title>
+    <link href="https://iwindoors.com/2021/04/14/blogs/2021-4-14-photos/"/>
+    <id>https://iwindoors.com/2021/04/14/blogs/2021-4-14-photos/</id>
+    <published>2021-04-13T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>经过折腾，目前相册功能可用了，就是还不支持分类和懒加载，等后续完善吧。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;经过折腾，目前相册功能可用了，就是还不支持分类和懒加载，等后续完善吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为volantis添加hls.js以在Chrome上播放m3u8视频</title>
+    <link href="https://iwindoors.com/2021/04/01/blogs/2021-4-1-hls/"/>
+    <id>https://iwindoors.com/2021/04/01/blogs/2021-4-1-hls/</id>
+    <published>2021-03-31T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>在文章中插入m3u8视频的时候，由于Chrome等浏览器原生播放不了这种格式，所以需要添加hls.js等让其支持播放，如果你也遇到了这样的问题就来看看吧。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在文章中插入m3u8视频的时候，由于Chrome等浏览器原生播放不了这种格式，所以需要添加hls.js等让其支持播放，如果你也遇到了这样的问题就来看看吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>volantis主题修改代码高亮样式</title>
+    <link href="https://iwindoors.com/2021/03/31/blogs/2021-3-31-highlightjs/"/>
+    <id>https://iwindoors.com/2021/03/31/blogs/2021-3-31-highlightjs/</id>
+    <published>2021-03-30T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.918Z</updated>
+    
+    <content type="html"><![CDATA[<p>在使用主题内的highlightjs的时候，你是否也遇到了它不换行、没有行号等问题？点进来看看吧。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在使用主题内的highlightjs的时候，你是否也遇到了它不换行、没有行号等问题？点进来看看吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为volantis主题添加图片轮播和热门文章</title>
+    <link href="https://iwindoors.com/2021/03/30/blogs/2021-2-30-slider/"/>
+    <id>https://iwindoors.com/2021/03/30/blogs/2021-2-30-slider/</id>
+    <published>2021-03-29T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.918Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇教程是基于heson大佬的这篇 <a href="https://www.heson10.com/posts/19736.html" target="_blank" rel="noopener external nofollow noreferrer">给Hexo Volantis主题添加图片轮播功能</a> 创作的，由我将新的轮播模板迁移至主题内，由inkss大佬完善。在这感谢两位大佬，如果你也需要轮播插件，就进来看看吧。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;这篇教程是基于heson大佬的这篇 &lt;a href=&quot;https://www.heson10.com/posts/19736.html&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;给Hexo Volantis主题添加图片轮播功能&lt;/a&gt; 创作的，由我将新的轮播模板迁移至主题内，由inkss大佬完善。在这感谢两位大佬，如果你也需要轮播插件，就进来看看吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用volantis更优雅地展示截图/录屏</title>
+    <link href="https://iwindoors.com/2021/03/07/blogs/2021-3-7-framei8/"/>
+    <id>https://iwindoors.com/2021/03/07/blogs/2021-3-7-framei8/</id>
+    <published>2021-03-06T16:00:00.000Z</published>
+    <updated>2022-06-30T00:53:09.919Z</updated>
+    
+    <content type="html"><![CDATA[<p>我在主题文档中看到了frame标签，可以更高大上得展示我们的截图&#x2F;录屏等。可是目前主题内仅内置了一个iPhone11的框架，想要使用其他的框架就得对齐修改，我经过折腾基本实现了，写下了这篇文章。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;我在主题文档中看到了frame标签，可以更高大上得展示我们的截图&amp;#x2F;录屏等。可是目前主题内仅内置了一个iPhone11的框架，想要使用其他的框架就得对齐修改，我经过折腾基本实现了，写下了这篇文章。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>为 hexo 博客支持 sweetalert 弹窗</title>
+    <link href="https://iwindoors.com/2021/02/19/blogs/2021-2-19-hexo-supports-sweetalert/"/>
+    <id>https://iwindoors.com/2021/02/19/blogs/2021-2-19-hexo-supports-sweetalert/</id>
+    <published>2021-02-18T16:00:00.000Z</published>
+    <updated>2021-02-18T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>通过CoolPush实时推送hexo评论到QQ</title>
+    <link href="https://iwindoors.com/2020/12/17/blogs/2020-12-17-comments-push/"/>
+    <id>https://iwindoors.com/2020/12/17/blogs/2020-12-17-comments-push/</id>
+    <published>2020-12-16T16:00:00.000Z</published>
+    <updated>2020-12-16T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>哔哔！换个姿势在静态博客上发短博文（volantis适配版）</title>
+    <link href="https://iwindoors.com/2020/10/09/blogs/2020-10-09-bb-on-volantis/"/>
+    <id>https://iwindoors.com/2020/10/09/blogs/2020-10-09-bb-on-volantis/</id>
+    <published>2020-10-08T16:00:00.000Z</published>
+    <updated>2020-10-08T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>要在静态博客上发送短博文，不像 wordpress 和 typecho 新建个栏目那么简单。之前博客整的是 artitalk，已经有短博文的那种体验了，而且还能支持发送 markdown、图片、音乐等等功能。感觉唯一的缺点就是：发文不是很方便，需要在博客上登陆。(至少我觉得很麻烦)。后来看到 @熊野 的那篇《哔哔点啥，换个舒服的姿势》，顿时感觉爱了，这就是我梦寐以求发送短博文的姿势。</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;要在静态博客上发送短博文，不像 wordpress 和 typecho 新建个栏目那么简单。之前博客整的是 artitalk，已经有短博文的那种体验了，而且还能支持发送 markdown、图片、音乐等等功能。感觉唯一的缺点就是：发文不是很方便，需要在博客上登陆。(至少我觉得很麻烦)。后来看到 @熊野 的那篇《哔哔点啥，换个舒服的姿势》，顿时感觉爱了，这就是我梦寐以求发送短博文的姿势。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 标签函数 list_tags 用法详解</title>
+    <link href="https://iwindoors.com/2020/09/24/blogs/2020-09-24-list-tags/"/>
+    <id>https://iwindoors.com/2020/09/24/blogs/2020-09-24-list-tags/</id>
+    <published>2020-09-23T16:00:00.000Z</published>
+    <updated>2020-09-23T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">对官方文档标签文档的一个补充，以volantis主题标签调用为例，展示不同用法下的标签示例。</summary>
+    
+    
+    
+    <category term="开发心得" scheme="https://iwindoors.com/categories/%E5%BC%80%E5%8F%91%E5%BF%83%E5%BE%97/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何给博客添加弹窗通知</title>
+    <link href="https://iwindoors.com/2020/09/03/blogs/2020-09-03-message-prompt/"/>
+    <id>https://iwindoors.com/2020/09/03/blogs/2020-09-03-message-prompt/</id>
+    <published>2020-09-02T16:00:00.000Z</published>
+    <updated>2020-09-03T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客访问速度提升：最佳线路分流</title>
+    <link href="https://iwindoors.com/2020/08/31/blogs/2020-08-31-hexospeed/"/>
+    <id>https://iwindoors.com/2020/08/31/blogs/2020-08-31-hexospeed/</id>
+    <published>2020-08-30T16:00:00.000Z</published>
+    <updated>2020-08-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+    <summary type="html">
+</summary>
+      
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>静态博客使用 Issues API 发布动态、友链、书签</title>
+    <link href="https://iwindoors.com/2020/08/28/blogs/2020-08-28-issue-api/"/>
+    <id>https://iwindoors.com/2020/08/28/blogs/2020-08-28-issue-api/</id>
+    <published>2020-08-27T16:00:00.000Z</published>
+    <updated>2020-08-27T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <summary type="html">由于发布 issue 的成本远远低于发布一次博客更新（即便是使用了持续集成），可以用 issue 来简化每个独立博客都必备的友链系统，也可以通过 issue 来快速发布动态资讯，弥补静态博客必须更新静态文件才能更新内容的缺点。此功能已经集成到了主题中，使用非常方便。</summary>
+    
+    
+    
+    <category term="进阶玩法" scheme="https://iwindoors.com/categories/%E8%BF%9B%E9%98%B6%E7%8E%A9%E6%B3%95/"/>
+    
+    
+  </entry>
+  
+</feed>
